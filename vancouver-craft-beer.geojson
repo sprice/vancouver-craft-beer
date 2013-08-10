@@ -150,6 +150,38 @@
           49.26386992935823
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alibi Room",
+        "Address": "157 Alexander St",
+        "Type": "Pub",
+        "marker-color": "#4fb92b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.100437,
+          49.284282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St. Augustines",
+        "Address": "2360 Commercial Dr",
+        "Type": "Pub",
+        "marker-color": "#4fb92b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.069545,
+          49.263877
+        ]
+      }
     }
   ]
 }
