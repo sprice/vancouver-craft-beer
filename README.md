@@ -16,10 +16,12 @@ Fork this repository and use the [Chrome geojson.io extension](https://chrome.go
 
 ### Marker Colours
 
-Pub = `#fdd0a2`
-Brewpub = `#fdae6b`
-Nano Brewery = `#fd8d3c`
-Microbrewery = `#e6550d`
+```
+Pub          = #fdd0a2
+Brewpub      = #fdae6b
+Nano Brewery = #fd8d3c
+Microbrewery = #e6550d
+```
 
 Colours are from [Color Brewer 2](http://colorbrewer2.org/)
 
