@@ -13,6 +13,8 @@ Contributing
 
 Pull requests welcome! Also feel free to open an [Issue](https://github.com/sprice/vancouver-craft-beer/issues) with any problem or with something to add.
 
+Fork this repository and use the [Chrome geojson.io extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp) to edit `vancouver-craft-beer.geojson`.
+
 Todo
 ----
 
