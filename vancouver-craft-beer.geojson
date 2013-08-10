@@ -1,1 +1,199 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Name":"Coal Harbour Brewing Company","Address":"1967 Triumph Street","Type":"Microbrewery","Website":"http://www.coalharbourbrewing.com/"},"geometry":{"type":"Point","coordinates":[-123.06444883346559,49.283959812098956]}},{"type":"Feature","properties":{"Name":"Dockside Brewing Company","Address":"1253 Johnston Street, Granville Island","Type":"Brewpub","Website":"http://www.docksidevancouver.com/brewery"},"geometry":{"type":"Point","coordinates":[-123.13141286373138,49.26935170899932]}},{"type":"Feature","properties":{"Name":"Pat's Pub","Address":"403 East Hastings Street","Type":"Brewpub","Website":"http://www.patspub.ca/"},"geometry":{"type":"Point","coordinates":[-123.0951976776123,49.28134229102068]}},{"type":"Feature","properties":{"Name":"R&B Brewing Co.","Address":"54 East 4th Ave.","Type":"Microbrewery","Website":"http://www.r-and-b.com/"},"geometry":{"type":"Point","coordinates":[-123.10287415981291,49.26738099882611]}},{"type":"Feature","properties":{"Name":"Steamworks Brewing","Address":"375 Water Street","Type":"Brewpub","Website":"http://steamworks.com/"},"geometry":{"type":"Point","coordinates":[-123.11092615127562,49.2848416194621]}},{"type":"Feature","properties":{"Name":"Storm Brewing","Address":"310 Commercial Drive","Type":"Microbrewery","Website":"http://www.stormbrewing.org/"},"geometry":{"type":"Point","coordinates":[-123.0702531337738,49.28223114397163]}},{"type":"Feature","properties":{"Name":"Yaletown Brewing Company","Address":"1111 Mainland Street","Type":"Brewpub","Website":"http://www.drinkfreshbeer.com/aboutmjg.html"},"geometry":{"type":"Point","coordinates":[-123.1208610534668,49.27553285754854]}},{"type":"Feature","properties":{"Name":"Powell Street Craft Brewery","Address":"1830 Powell Street","Type":"Nanobrewery","Website":"http://www.powellbeer.com/"},"geometry":{"type":"Point","coordinates":[-123.0678606033325,49.284127776622036]}},{"type":"Feature","properties":{"Name":"Parallel 49 Brewing Company","Address":"1950 Triumph Street","Type":"Microbrewery","Website":"http://parallel49brewing.com/"},"geometry":{"type":"Point","coordinates":[-123.06477069854738,49.28384783543241]}},{"type":"Feature","properties":{"Name":"33 Acres Brewing Company","Address":"15 West 8th Ave.","Type":"Microbrewery","Website":"http://33acresbrewing.com/"},"geometry":{"type":"Point","coordinates":[-123.10560464859009,49.26386992935823]}},{"type":"Feature","properties":{"Name":"Alibi Room","Address":"157 Alexander St","Type":"Pub","Website":"http://www.alibi.ca/","marker-color":"#4fb92b"},"geometry":{"type":"Point","coordinates":[-123.100437,49.284282]}},{"type":"Feature","properties":{"Name":"St. Augustines","Address":"2360 Commercial Dr","Type":"Pub","Website":"http://staugustinesvancouver.com","marker-color":"#4fb92b"},"geometry":{"type":"Point","coordinates":[-123.069545,49.263877]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coal Harbour Brewing Company",
+        "Address": "1967 Triumph Street",
+        "Type": "Microbrewery",
+        "Website": "http://www.coalharbourbrewing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.06444883346559,
+          49.283959812098956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dockside Brewing Company",
+        "Address": "1253 Johnston Street, Granville Island",
+        "Type": "Brewpub",
+        "Website": "http://www.docksidevancouver.com/brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.13141286373138,
+          49.26935170899932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pat's Pub",
+        "Address": "403 East Hastings Street",
+        "Type": "Brewpub",
+        "Website": "http://www.patspub.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0951976776123,
+          49.28134229102068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "R&B Brewing Co.",
+        "Address": "54 East 4th Ave.",
+        "Type": "Microbrewery",
+        "Website": "http://www.r-and-b.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.10287415981291,
+          49.26738099882611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Steamworks Brewing",
+        "Address": "375 Water Street",
+        "Type": "Brewpub",
+        "Website": "http://steamworks.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11092615127562,
+          49.2848416194621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Storm Brewing",
+        "Address": "310 Commercial Drive",
+        "Type": "Microbrewery",
+        "Website": "http://www.stormbrewing.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0702531337738,
+          49.28223114397163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yaletown Brewing Company",
+        "Address": "1111 Mainland Street",
+        "Type": "Brewpub",
+        "Website": "http://www.drinkfreshbeer.com/aboutmjg.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1208610534668,
+          49.27553285754854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Powell Street Craft Brewery",
+        "Address": "1830 Powell Street",
+        "Type": "Nanobrewery",
+        "Website": "http://www.powellbeer.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0678606033325,
+          49.284127776622036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parallel 49 Brewing Company",
+        "Address": "1950 Triumph Street",
+        "Type": "Microbrewery",
+        "Website": "http://parallel49brewing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.06477069854738,
+          49.28384783543241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "33 Acres Brewing Company",
+        "Address": "15 West 8th Ave.",
+        "Type": "Microbrewery",
+        "Website": "http://33acresbrewing.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.10560464859009,
+          49.26386992935823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alibi Room",
+        "Address": "157 Alexander St",
+        "Type": "Pub",
+        "Website": "http://www.alibi.ca/",
+        "marker-color": "#4fb92b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.100437,
+          49.284282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St. Augustines",
+        "Address": "2360 Commercial Dr",
+        "Type": "Pub",
+        "Website": "http://staugustinesvancouver.com",
+        "marker-color": "#4fb92b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.069545,
+          49.263877
+        ]
+      }
+    }
+  ]
+}
