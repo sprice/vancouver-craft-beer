@@ -1,5 +1,7 @@
 # Vancouver Craft Beer
 
+[![Build Status](https://secure.travis-ci.org/sprice/vancouver-craft-beer.png)](http://travis-ci.org/sprice/vancouver-craft-beer)
+
 A map of breweries and brewpubs in Vancouver, BC.
 
 ## View Map
