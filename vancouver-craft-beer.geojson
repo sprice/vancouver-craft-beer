@@ -7,7 +7,8 @@
         "Name": "Coal Harbour Brewing Company",
         "Address": "1967 Triumph Street",
         "Type": "Microbrewery",
-        "Website": "http://www.coalharbourbrewing.com/"
+        "Website": "http://www.coalharbourbrewing.com/",
+        "marker-color": "#e6550d"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +24,8 @@
         "Name": "Dockside Brewing Company",
         "Address": "1253 Johnston Street, Granville Island",
         "Type": "Brewpub",
-        "Website": "http://www.docksidevancouver.com/brewery"
+        "Website": "http://www.docksidevancouver.com/brewery",
+        "marker-color": "#fdae6b"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +41,8 @@
         "Name": "Pat's Pub",
         "Address": "403 East Hastings Street",
         "Type": "Brewpub",
-        "Website": "http://www.patspub.ca/"
+        "Website": "http://www.patspub.ca/",
+        "marker-color": "#fdae6b"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +58,8 @@
         "Name": "R&B Brewing Co.",
         "Address": "54 East 4th Ave.",
         "Type": "Microbrewery",
-        "Website": "http://www.r-and-b.com/"
+        "Website": "http://www.r-and-b.com/",
+        "marker-color": "#e6550d"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +75,8 @@
         "Name": "Steamworks Brewing",
         "Address": "375 Water Street",
         "Type": "Brewpub",
-        "Website": "http://steamworks.com/"
+        "Website": "http://steamworks.com/",
+        "marker-color": "#fdae6b"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +92,8 @@
         "Name": "Storm Brewing",
         "Address": "310 Commercial Drive",
         "Type": "Microbrewery",
-        "Website": "http://www.stormbrewing.org/"
+        "Website": "http://www.stormbrewing.org/",
+        "marker-color": "#e6550d"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +109,8 @@
         "Name": "Yaletown Brewing Company",
         "Address": "1111 Mainland Street",
         "Type": "Brewpub",
-        "Website": "http://www.drinkfreshbeer.com/aboutmjg.html"
+        "Website": "http://www.drinkfreshbeer.com/aboutmjg.html",
+        "marker-color": "#fdae6b"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +126,8 @@
         "Name": "Powell Street Craft Brewery",
         "Address": "1830 Powell Street",
         "Type": "Nanobrewery",
-        "Website": "http://www.powellbeer.com/"
+        "Website": "http://www.powellbeer.com/",
+        "marker-color": "#fd8d3c"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +143,8 @@
         "Name": "Parallel 49 Brewing Company",
         "Address": "1950 Triumph Street",
         "Type": "Microbrewery",
-        "Website": "http://parallel49brewing.com/"
+        "Website": "http://parallel49brewing.com/",
+        "marker-color": "#e6550d"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +160,8 @@
         "Name": "33 Acres Brewing Company",
         "Address": "15 West 8th Ave.",
         "Type": "Microbrewery",
-        "Website": "http://33acresbrewing.com/"
+        "Website": "http://33acresbrewing.com/",
+        "marker-color": "#e6550d"
       },
       "geometry": {
         "type": "Point",
@@ -168,7 +178,7 @@
         "Address": "157 Alexander St",
         "Type": "Pub",
         "Website": "http://www.alibi.ca/",
-        "marker-color": "#4fb92b"
+        "marker-color": "#fdd0a2"
       },
       "geometry": {
         "type": "Point",
@@ -185,7 +195,7 @@
         "Address": "2360 Commercial Dr",
         "Type": "Pub",
         "Website": "http://staugustinesvancouver.com",
-        "marker-color": "#4fb92b"
+        "marker-color": "#fdd0a2"
       },
       "geometry": {
         "type": "Point",
