@@ -25,6 +25,9 @@ Colours are from [Color Brewer 2](http://colorbrewer2.org/)
 
 - Add hours of operation
 - Add more breweries/pubs
+- Add available facilities (tasting lounge, growler fills, tours)
+- Add cask nights to pubs/brewpubs
+- Update marker colours (better contrast)
 
 ## Thanks
 
