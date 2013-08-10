@@ -141,7 +141,8 @@
       "properties": {
         "Name": "33 Acres Brewing Company",
         "Address": "15 West 8th Ave.",
-        "Type": "Microbrewery"
+        "Type": "Microbrewery",
+        "Website": "http://33acresbrewing.com/"
       },
       "geometry": {
         "type": "Point",
@@ -157,6 +158,7 @@
         "Name": "Alibi Room",
         "Address": "157 Alexander St",
         "Type": "Pub",
+        "Website": "http://www.alibi.ca/",
         "marker-color": "#4fb92b"
       },
       "geometry": {
@@ -173,6 +175,7 @@
         "Name": "St. Augustines",
         "Address": "2360 Commercial Dr",
         "Type": "Pub",
+        "Website": "http://staugustinesvancouver.com",
         "marker-color": "#4fb92b"
       },
       "geometry": {
