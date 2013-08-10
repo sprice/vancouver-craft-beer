@@ -1,0 +1,19 @@
+{
+  "name": "vancouver-craft-beer",
+  "version": "0.0.0",
+  "description": "Vancouver Craft Beer Resources",
+  "scripts": {
+    "test": "./node_modules/geojsonhint/bin/geojsonhint vancouver-craft-beer.geojson"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sprice/vancouver-craft-beer.git"
+  },
+  "author": "Shawn Price",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "1b14dc506ee32e4042e993959d6b65da0a40f581",
+  "dependencies": {
+    "geojsonhint": "~0.1.2"
+  }
+}
