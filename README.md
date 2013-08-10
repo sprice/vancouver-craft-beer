@@ -16,8 +16,8 @@ Pull requests welcome! Also feel free to open an [Issue](https://github.com/spri
 Todo
 ----
 
-- [ ] Add hours of operation
-- [ ] Add more breweries/pubs
+- Add hours of operation
+- Add more breweries/pubs
 
 Thanks
 ------
