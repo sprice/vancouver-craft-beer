@@ -3,15 +3,15 @@ Vancouver Craft Beer
 
 A map of breweries and brewpubs in Vancouver, BC.
 
-Use
----
+View Map
+--------
 
-Click on `vancouver-craft-beer.geojson` above.
+[Check it out!](https://github.com/sprice/vancouver-craft-beer/blob/master/vancouver-craft-beer.geojson)
 
 Contributing
 ------------
 
-Pull requests welcome! Also feel free to open an [Issue](https://github.com/sprice/vancouver-craft-beer/issues) with any problem or something to add.
+Pull requests welcome! Also feel free to open an [Issue](https://github.com/sprice/vancouver-craft-beer/issues) with any problem or with something to add.
 
 Todo
 ----
