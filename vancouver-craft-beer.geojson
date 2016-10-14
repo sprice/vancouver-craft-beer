@@ -204,6 +204,23 @@
           49.263877
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Faculty Brewing Co.",
+        "Address": "1830 Ontario Street",
+        "Type": "Microbrewery",
+        "Website": "http://www.facultybrewing.com/",
+        "marker-color": "#e6550d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.104535,
+          49.268671
+        ]
+      }
     }
   ]
 }
